@@ -1,0 +1,3 @@
+Simple Interest Calculate :- https://jsfiddle.net/HarshCLAD/a16ygprd/4/
+
+Print Full Name :- https://jsfiddle.net/HarshCLAD/a16ygprd/12/
